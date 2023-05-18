@@ -1,0 +1,4 @@
+{
+  "MoonExecution": false,
+  "MoonWSEndPoint": "`wss://moon-np.dell.com/playwright/chromium/playwright-1.32.1?headless=false&enableVideo=true&name=DSCTests"
+}
